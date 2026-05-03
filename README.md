@@ -22,6 +22,7 @@ Aplicación web fullstack para gestión interna de equipos: seguimiento de horas
 ![Rentabilidad](docs/rentabilidad.png)
 
 ### Video de demostración
+https://github.com/user-attachments/assets/8b00dd29-bcab-4ccc-ab92-d72d31562578
 
 > Muestra el flujo completo de la aplicación: creación de proyectos, carga de horas,
 > registro de costos e ingresos, y visualización de métricas de rentabilidad en tiempo real.
