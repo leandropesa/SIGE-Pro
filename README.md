@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" width="300" alt="SIGE-Pro logo">
+</p>
+
 # SIGE-Pro — Sistema de Gestión de Proyectos
 
 Aplicación web fullstack para gestión interna de equipos: seguimiento de horas, proyectos, costos e ingresos, con reportes de rentabilidad en tiempo real.
@@ -8,6 +12,19 @@ Aplicación web fullstack para gestión interna de equipos: seguimiento de horas
 - **Backend**: [Convex](https://convex.dev/) (base de datos reactiva + serverless functions)
 - **Autenticación**: Convex Auth
 - **UI**: Heroicons, Sonner (toasts)
+
+## Demostración
+
+### Gestión de proyectos
+![Proyectos](docs/proyectos.png)
+
+### Rentabilidad y reportes
+![Rentabilidad](docs/rentabilidad.png)
+
+### Video de demostración
+
+> Muestra el flujo completo de la aplicación: creación de proyectos, carga de horas,
+> registro de costos e ingresos, y visualización de métricas de rentabilidad en tiempo real.
 
 ## Funcionalidades
 
